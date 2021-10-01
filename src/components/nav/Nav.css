@@ -1,0 +1,8 @@
+.container-menu{
+    justify-content: space-evenly;
+    padding: 2% 0;
+}
+
+.li-active{
+    border-bottom: 3px solid rgb(166,1,69);   
+}

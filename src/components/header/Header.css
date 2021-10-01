@@ -1,0 +1,12 @@
+.header{
+    padding: 1% 2%;
+}
+
+.principal-container{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    height: 45px;
+}

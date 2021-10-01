@@ -1,0 +1,38 @@
+.btn{
+    background: none;
+    padding: 0.5% 2.5%;
+    border-radius: 20px;
+    border: 2px solid lightskyblue;
+    transition: all 1s ease;
+}
+
+.btn:hover {
+    transform: scale(1.1, 1.1);
+    background: lightskyblue;
+    color: #fff;
+}
+
+.btn-active {
+    transform: scale(1.1, 1.1);
+    background: lightskyblue;
+    color: #fff;
+}
+
+.btn-bordo{
+    border: 2px solid rgb(166,1,69);
+    height: 100%;
+}
+
+.btn-bordo:hover {
+    transform: scale(1.1, 1.1);
+    background: rgba(150, 107, 125, 0.529);
+    color: #fff;
+}
+
+.text-16{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+  

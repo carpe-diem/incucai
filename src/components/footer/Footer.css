@@ -1,0 +1,11 @@
+.footer{
+    padding: 1.5% 3%;
+    justify-content: space-between;
+}
+
+.text-footer{
+    flex:4;
+    justify-content: initial;
+    align-items: center;
+    display: flex;
+}

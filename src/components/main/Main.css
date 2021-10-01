@@ -1,0 +1,7 @@
+.container-cards{
+    background: rgb(249,248,253);
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    min-height: 550px;
+}

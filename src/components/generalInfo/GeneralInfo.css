@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+.container-info{
+    padding: 2% 5%;
+    min-height: 600px;
+    justify-content: space-evenly;
+}
+
+.font-nunito{
+    font-family: 'Nunito', sans-serif;
+    line-height:3;
+}
+
+.h50{
+    display: flex;
+    justify-content: flex-end;
+    height: 50px;
+}

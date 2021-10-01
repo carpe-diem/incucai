@@ -1,0 +1,39 @@
+.card{
+    border-radius: 10px;
+    border: 1px solid lightskyblue;
+    background: white;
+    padding: 1%;
+    margin: 1.5%;
+    height: 200px;
+    width: 400px;
+    justify-content: space-evenly;
+}
+
+.container-icono{
+    display: flex;
+    justify-content: space-between;
+    height: 25px;
+}
+
+.icono{
+    height: 100%;
+}
+
+.text-card{
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+
+.h-20{
+    height: 20px;
+    justify-content: space-between;
+}
+
+.container-percent{
+    min-width: 55px;
+    justify-content: space-between;
+}
+
+.small-leter{
+    font-size: 10px;
+}

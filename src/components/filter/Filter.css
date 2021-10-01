@@ -1,0 +1,18 @@
+.filter{
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 1%;
+    border-top: 2px solid rgb(249,248,253);
+}
+
+.container-sort{
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-top: 2px solid rgb(249,248,253);
+    flex: 2.5;
+}
+
+.container-filter{
+    flex: 1;
+}
