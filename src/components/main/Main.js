@@ -22,6 +22,7 @@ export const Main =()=>{
             setNewData2019(dataNacion)
             setNewData2018(dataNacionPrev)
         }
+    // eslint-disable-next-line
     }, [showAll])
 
     const getProv2018 =(data2019)=>{
