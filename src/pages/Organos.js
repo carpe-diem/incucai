@@ -2,6 +2,7 @@ import { useEffect } from "react"
 import { GeneralInfo } from "../components/generalInfo/GeneralInfo"
 import Map from "../components/map/Map"
 import { scrollToAnchor, maxOrganos2019 } from "../utils/getInfo"
+import transplanteImg from '../images/transplante.jpg'
 
 export const Organos =()=>{
     const KEY = process.env.REACT_APP_GOOGLE_MAP_KEY
@@ -21,7 +22,7 @@ export const Organos =()=>{
                 <p>Un órgano necesita recibir sangre a través de una o varias arterias y venas. Por tanto, al trasplantarlo requiere que esas arterias y/o venas sean “conectadas” a las del receptor, para que el órgano reciba la sangre que necesita para mantenerse con vida.</p>
                 <p>Existe la posibilidad de donar órganos en vida, la donación de órganos entre personas vivas está permitida sólo entre parientes, siempre que no afecte la salud del donante y exista posibilidad de éxito en la operación de la persona que los recibe.</p>
                 `}
-                image={"./images/transplante.jpg"}
+                image={transplanteImg}
            />
            <div id="mapaOrganos"></div>
            <Map 

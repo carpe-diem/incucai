@@ -1,4 +1,5 @@
 import { GeneralInfo } from "../components/generalInfo/GeneralInfo"
+import unajImg from '../images/unaj.png'
 
 export const Home =()=>{
     return(
@@ -15,7 +16,7 @@ export const Home =()=>{
                 <p><a href="https://datos.gob.ar/dataset/salud-pacientes-lista-espera-incucai">https://datos.gob.ar/dataset/salud-pacientes-lista-espera-incucai</a></p>
                 <p><a href="https://datos.gob.ar/ar/dataset/jgm-servicio-normalizacion-datos-geograficos/archivo/jgm_8.2">https://datos.gob.ar/ar/dataset/jgm-servicio-normalizacion-datos-geograficos/archivo/jgm_8.2</a></p>
                 `}
-                image={"./images/unaj.png"}
+                image={unajImg}
            />
         </>
     )

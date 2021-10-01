@@ -1,4 +1,10 @@
 import "./Card.css"
+
+import redSirena from '../../images/red_sirena.svg'
+import greenSirena from '../../images/green_sirena.svg'
+import yellowSirena from '../../images/yellow_sirena.svg'
+
+
 import ReactTooltip from "react-tooltip";
 import { Link } from "react-router-dom";
 
@@ -11,10 +17,10 @@ export const Card =(props)=>{
     const getSirena = (data2018, data2019) =>{
         let info = getPercent(data2018, data2019)
         if (info > 0) {
-            return ("./images/red_sirena.svg")
+            return redSirena
         } else if (info < 0) {
-            return ("./images/green_sirena.svg")
-            } else return ("./images/yellow_sirena.svg")
+            return greenSirena
+            } else return yellowSirena
     }
 
     return (
