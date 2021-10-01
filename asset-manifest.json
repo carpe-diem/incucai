@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/$%7BREACT_APP_HOST%7D/static/css/main.3ec7d64a.chunk.css",
-    "main.js": "/$%7BREACT_APP_HOST%7D/static/js/main.d40b1660.chunk.js",
-    "main.js.map": "/$%7BREACT_APP_HOST%7D/static/js/main.d40b1660.chunk.js.map",
-    "runtime-main.js": "/$%7BREACT_APP_HOST%7D/static/js/runtime-main.925f0f2b.js",
-    "runtime-main.js.map": "/$%7BREACT_APP_HOST%7D/static/js/runtime-main.925f0f2b.js.map",
-    "static/js/2.cd3a7be4.chunk.js": "/$%7BREACT_APP_HOST%7D/static/js/2.cd3a7be4.chunk.js",
-    "static/js/2.cd3a7be4.chunk.js.map": "/$%7BREACT_APP_HOST%7D/static/js/2.cd3a7be4.chunk.js.map",
-    "static/js/3.0474c296.chunk.js": "/$%7BREACT_APP_HOST%7D/static/js/3.0474c296.chunk.js",
-    "static/js/3.0474c296.chunk.js.map": "/$%7BREACT_APP_HOST%7D/static/js/3.0474c296.chunk.js.map",
-    "index.html": "/$%7BREACT_APP_HOST%7D/index.html",
-    "static/css/main.3ec7d64a.chunk.css.map": "/$%7BREACT_APP_HOST%7D/static/css/main.3ec7d64a.chunk.css.map",
-    "static/js/2.cd3a7be4.chunk.js.LICENSE.txt": "/$%7BREACT_APP_HOST%7D/static/js/2.cd3a7be4.chunk.js.LICENSE.txt",
-    "static/media/error.00a6dc47.jpg": "/$%7BREACT_APP_HOST%7D/static/media/error.00a6dc47.jpg",
-    "static/media/green_sirena.bfbd8909.svg": "/$%7BREACT_APP_HOST%7D/static/media/green_sirena.bfbd8909.svg",
-    "static/media/incucai.35699e1a.png": "/$%7BREACT_APP_HOST%7D/static/media/incucai.35699e1a.png",
-    "static/media/red_sirena.7500375f.svg": "/$%7BREACT_APP_HOST%7D/static/media/red_sirena.7500375f.svg",
-    "static/media/transplante.fc21339a.jpg": "/$%7BREACT_APP_HOST%7D/static/media/transplante.fc21339a.jpg",
-    "static/media/unaj.19883093.png": "/$%7BREACT_APP_HOST%7D/static/media/unaj.19883093.png",
-    "static/media/yellow_sirena.aff2c2fa.svg": "/$%7BREACT_APP_HOST%7D/static/media/yellow_sirena.aff2c2fa.svg"
+    "main.css": "/incucai/static/css/main.3ec7d64a.chunk.css",
+    "main.js": "/incucai/static/js/main.8cf01fc3.chunk.js",
+    "main.js.map": "/incucai/static/js/main.8cf01fc3.chunk.js.map",
+    "runtime-main.js": "/incucai/static/js/runtime-main.f957947a.js",
+    "runtime-main.js.map": "/incucai/static/js/runtime-main.f957947a.js.map",
+    "static/js/2.cd3a7be4.chunk.js": "/incucai/static/js/2.cd3a7be4.chunk.js",
+    "static/js/2.cd3a7be4.chunk.js.map": "/incucai/static/js/2.cd3a7be4.chunk.js.map",
+    "static/js/3.0474c296.chunk.js": "/incucai/static/js/3.0474c296.chunk.js",
+    "static/js/3.0474c296.chunk.js.map": "/incucai/static/js/3.0474c296.chunk.js.map",
+    "index.html": "/incucai/index.html",
+    "static/css/main.3ec7d64a.chunk.css.map": "/incucai/static/css/main.3ec7d64a.chunk.css.map",
+    "static/js/2.cd3a7be4.chunk.js.LICENSE.txt": "/incucai/static/js/2.cd3a7be4.chunk.js.LICENSE.txt",
+    "static/media/error.00a6dc47.jpg": "/incucai/static/media/error.00a6dc47.jpg",
+    "static/media/green_sirena.bfbd8909.svg": "/incucai/static/media/green_sirena.bfbd8909.svg",
+    "static/media/incucai.35699e1a.png": "/incucai/static/media/incucai.35699e1a.png",
+    "static/media/red_sirena.7500375f.svg": "/incucai/static/media/red_sirena.7500375f.svg",
+    "static/media/transplante.fc21339a.jpg": "/incucai/static/media/transplante.fc21339a.jpg",
+    "static/media/unaj.19883093.png": "/incucai/static/media/unaj.19883093.png",
+    "static/media/yellow_sirena.aff2c2fa.svg": "/incucai/static/media/yellow_sirena.aff2c2fa.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.925f0f2b.js",
+    "static/js/runtime-main.f957947a.js",
     "static/js/2.cd3a7be4.chunk.js",
     "static/css/main.3ec7d64a.chunk.css",
-    "static/js/main.d40b1660.chunk.js"
+    "static/js/main.8cf01fc3.chunk.js"
   ]
 }
