@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Router/>
+      <Router basename="/incucai/"/>
       <Footer />
     </div>
   );
