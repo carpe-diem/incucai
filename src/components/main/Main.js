@@ -22,7 +22,7 @@ export const Main =()=>{
             setNewData2019(dataNacion)
             setNewData2018(dataNacionPrev)
         }
-    // eslint-disable-next-line
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [showAll])
 
     const getProv2018 =(data2019)=>{
