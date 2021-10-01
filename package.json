@@ -1,6 +1,6 @@
 {
   "name": "incucai",
-  "homepage": "${PUBLIC_URL}",
+  "homepage": "${REACT_APP_HOST}",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

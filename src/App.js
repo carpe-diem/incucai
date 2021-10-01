@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Router basename={process.env.PUBLIC_URL}/>
+      <Router basename={process.env.REACT_APP_HOST}/>
       <Footer />
     </div>
   );
