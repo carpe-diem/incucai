@@ -8,7 +8,7 @@ import AppProvider from "./utils/context";
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/incucai">
       <AppProvider>
         <App />
       </AppProvider>
