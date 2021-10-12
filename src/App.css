@@ -47,5 +47,6 @@ li:hover{
 
 .text-grey{
   font-family: 'Roboto', sans-serif;
-  color: var(--grey)
+  color: var(--grey);
+  font-weight: 200;
 }
