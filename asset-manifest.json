@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/incucai/static/css/main.3ec7d64a.chunk.css",
+    "main.css": "/incucai/static/css/main.b998e151.chunk.css",
     "main.js": "/incucai/static/js/main.3138b55c.chunk.js",
     "main.js.map": "/incucai/static/js/main.3138b55c.chunk.js.map",
     "runtime-main.js": "/incucai/static/js/runtime-main.f957947a.js",
@@ -10,7 +10,7 @@
     "static/js/3.0474c296.chunk.js": "/incucai/static/js/3.0474c296.chunk.js",
     "static/js/3.0474c296.chunk.js.map": "/incucai/static/js/3.0474c296.chunk.js.map",
     "index.html": "/incucai/index.html",
-    "static/css/main.3ec7d64a.chunk.css.map": "/incucai/static/css/main.3ec7d64a.chunk.css.map",
+    "static/css/main.b998e151.chunk.css.map": "/incucai/static/css/main.b998e151.chunk.css.map",
     "static/js/2.cd3a7be4.chunk.js.LICENSE.txt": "/incucai/static/js/2.cd3a7be4.chunk.js.LICENSE.txt",
     "static/media/error.00a6dc47.jpg": "/incucai/static/media/error.00a6dc47.jpg",
     "static/media/green_sirena.bfbd8909.svg": "/incucai/static/media/green_sirena.bfbd8909.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.f957947a.js",
     "static/js/2.cd3a7be4.chunk.js",
-    "static/css/main.3ec7d64a.chunk.css",
+    "static/css/main.b998e151.chunk.css",
     "static/js/main.3138b55c.chunk.js"
   ]
 }
